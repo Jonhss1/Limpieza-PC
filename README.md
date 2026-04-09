@@ -65,7 +65,7 @@ No hay confirmación antes de borrar
 No utiliza la papelera
 Puede eliminar datos importantes
 
-!!! Úsalo bajo tu propia responsabilidad.!!!  
+!!! Úsalo bajo tu propia responsabilidad !!!  
  
 📄 Licencia
 
