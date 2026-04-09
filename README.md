@@ -1,4 +1,5 @@
-# Limpieza-PC-Jonathan-Perez-Trujillo
+# Limpieza-PC-Jonathan-Perez-Trujillo  
+![image alt](https://github.com/Jonhss1/Limpieza-PC/blob/6dddcd4783be9fe9141b3a55bb4f39ceaa7666d2/Programa.png)
 ✨ Características  
 🔐 Elevación automática a Administrador  
 🧠 Detección del usuario real del sistema  
