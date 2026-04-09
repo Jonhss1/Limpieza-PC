@@ -20,7 +20,7 @@
 - pip install psutil
 
  🚀 Instalación  
- - git clone https://github.com/tu-usuario/tequio-pilares-ultra-pro.git
- - cd Limpieza
+ - git clone https://github.com/Jonhss1/Limpieza-PC.git
+ - cd Limpieza-PC
  - pip install psutil
  - python main.py 
