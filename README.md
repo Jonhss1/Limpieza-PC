@@ -17,21 +17,27 @@
 
 🖥 Requisitos  
 - Windows 10 / 11  
-- Python 3.8 o superior  
-- Dependencias  
+- Python 3.8 o superior
+
+Dependencias  
 - pip install psutil
 
- 🚀 Instalación  
+ 🚀 Instalación en python  
  - git clone https://github.com/Jonhss1/Limpieza-PC.git
  - cd Limpieza-PC
  - pip install psutil
  - python main.py 
 
-▶️ Uso
+▶️ Uso en python
 
 Ejecuta el script:
 
-- python main.py  
+- python main.py
+  
+▶️ Uso en Windows  
+
+1-. Descarga el .exe adjunto en el repositorio.  
+2-.Ejecuta el .exe 
  
  El programa solicitará permisos de administrador automáticamente. Usa la interfaz gráfica:  
  
