@@ -58,15 +58,7 @@ No hay confirmación antes de borrar
 No utiliza la papelera
 Puede eliminar datos importantes
 
-Úsalo bajo tu propia responsabilidad.  
-
-  
-🤝 Contribuir  
-- Haz un fork
-- Crea una rama (feature/nueva-funcion)
-- Commit (git commit -m "Nueva función")
-- Push (git push origin feature/nueva-funcion)
-- Abre un Pull Request
+!!! Úsalo bajo tu propia responsabilidad.!!!  
  
 📄 Licencia
 
